@@ -1,0 +1,144 @@
+
+body
+{
+width: 572px;
+height: 77px;
+left: 734px;
+top: 60px;
+margin: 0;
+font-family: 'Lalezar', cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 100px;
+letter-spacing: 0.13em;
+color: #FEAE73;
+}
+
+*,
+*:before,
+*:after
+{
+box-sizing: border-box;
+}
+
+h1, h2, h3, h4
+{
+margin: 0
+}
+
+.container
+{
+position: absolute;
+width: 1920px;
+height: 197px;
+left: 0px;
+top: 0px;
+background: #006955;
+}
+
+.intro
+{
+position: relative;
+width: 1920px;
+height: 1858px;
+
+background: #E7EEE7;
+}
+.header
+{
+position: absolute;
+width: 539px;
+height: 122px;
+left: 690px;
+top: 954px;
+
+background: #D64E52;
+border-radius: 30px;
+}
+
+.review
+{
+position: absolute;
+width: 1141px;
+height: 126px;
+left: 448px;
+top: 314px;
+
+font-family: 'Lalezar';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 150px;
+letter-spacing: 0.13em;
+
+color: #696752;
+
+}
+
+.end
+{
+position: absolute;
+width: 835px;
+height: 72px;
+left: 41px;
+top: 1723px;
+
+font-family: 'Lalezar';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 63px;
+letter-spacing: 0.13em;
+
+color: #FFFFFF;
+}
+
+.meme1
+{
+position: absolute;
+width: 909px;
+height: 899px;
+left: 525px;
+top: 1035px;
+background: url("../pic/big-floppa-meme.png") center no-repeat
+}
+
+.this
+{
+position: absolute;
+width: 1395px;
+height: 545px;
+left: 270px;
+top: 2026px;
+
+font-family: 'Lalezar';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 63px;
+letter-spacing: 0.13em;
+
+color: #696752
+}
+
+
+.meme2
+{
+position: absolute;
+width: 909px;
+height: 899px;
+left: 525px;
+top: 1035px;
+background: url("../pic/6TvpZgJyScY.jpg") center no-repeat
+}
+
+.meme3
+{
+position: absolute;
+width: 909px;
+height: 899px;
+left: 525px;
+top: 1035px;
+background: url("../pic/JBnmJUqrs-g.jpg") center no-repeat
+}
